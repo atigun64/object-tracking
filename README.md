@@ -13,8 +13,8 @@ A real-time object tracking system using YOLO for object detection and a custom 
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd object_tracking
+git clone https://github.com/atigun64/object-tracking.git
+cd object-tracking
 ```
 
 2. Create a virtual environment:
